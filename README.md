@@ -1,1 +1,1 @@
-# Mortgage_Calculator
+# Mortgage_Calculator calculates mortgage for the bank
